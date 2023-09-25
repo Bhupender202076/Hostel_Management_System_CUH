@@ -27,9 +27,9 @@
                     <h5>Student</h5>
                 </div>
                 <div class="sci">
-                    <a href="https://www.facebook.com/home.php"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://m.facebook.com/profile.php?id=100037741577267"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://www.instagram.com/mohit_panwar_4127/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/BhupenderP54098"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
@@ -43,9 +43,9 @@
                     <h5>Student</h5>
                 </div>
                 <div class="sci">
-                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a href="https://www.facebook.com/prakher.mishra.79"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://www.instagram.com/just_prakhar_things/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                    <a href="https://twitter.com/Anonymo18426252"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                 </div>
             </div>
         </div>
