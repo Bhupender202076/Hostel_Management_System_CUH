@@ -48,9 +48,9 @@
     <i class="fa fa-bars"></i>
     </div>
     <ul class="NavMenu ">
-      <li class="NavItem"><a id="linkcolor" on class="NavLinks" href="#about">About</a></li>
+      <li class="NavItem"><a id="linkcolor" on class="NavLinks" href="https://www.cuh.ac.in/information-about-cuh.aspx">About</a></li>
       <li class="NavItem"><a id="linkcolor1" class="NavLinks" href="pricing.php">Hostels</a></li>
-      <li class="NavItem"><a id="linkcolor2" class="NavLinks" href="#contact">Contact Us</a></li>
+      <li class="NavItem"><a id="linkcolor2" class="NavLinks" href="https://www.cuh.ac.in/Hostel.aspx?category=facilities">Contact Us</a></li>
       <li class="NavItem"><a id="linkcolor3" class="NavLinks" href="signin.php">Sign in</a></li>
     </ul>
     <div class="NavBtn">
@@ -64,7 +64,7 @@
 <div class="HeroContainer">
   <div class="HeroBg">
     <video muted autoplay="autoplay" loop class="VideoBg">
-  <source src="videos\video2.mp4" type="video/mp4">
+  <source src="videos\video1.mp4" type="video/mp4">
 </video>
   </div>
 <div class="HeroContent">
