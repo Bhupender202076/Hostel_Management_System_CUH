@@ -36,7 +36,7 @@
         <div class="card">
             <div class="content">
                 <div class="imgBx">
-                    <img src="images\prakhar.jpeg" alt="">
+                    <img src="images\prakhar.jpg" alt="">
                 </div>
                 <div class="contentBx">
                     <h4>Prakhar</h4>
