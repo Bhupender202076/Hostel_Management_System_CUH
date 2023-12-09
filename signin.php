@@ -39,7 +39,7 @@
       <h1>Login</h1>
       <form method="post" action="signin.php" >
         <div class="txt_field">
-          <input name="username" type="text" pattern="[0-9]{2}[A-Z]{3}[0-9]{4}" required>
+          <input name="username" type="text" pattern="[0-9]{6}" required>
           <span></span>
           <label>Roll Number</label>
         </div>
