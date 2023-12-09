@@ -18,13 +18,13 @@
   <body>
     <div class="Nav" id="Nav1">
       <div class="NavbarContainer">
-        <img src="images/vit1.png" alt="" class="NavLogo" onclick="rtohome()">
+        <img src="images/cuh.png" alt="" class="NavLogo" onclick="rtohome()">
         <div class="MobileIcon">
         <i class="fa fa-bars"></i>
         </div>
         <ul class="NavMenu ">
           <li class="NavItem"><a id="linkcolor" on class="NavLinks" href="index.php#about">About</a></li>
-          <li class="NavItem"><a id="linkcolor1" class="NavLinks" href="pricing.php">Pricing</a></li>
+          <li class="NavItem"><a id="linkcolor1" class="NavLinks" href="pricing.php">Hostels</a></li>
           <li class="NavItem"><a id="linkcolor2" class="NavLinks" href="index.php#contact">Contact Us</a></li>
           <li class="NavItem"><a id="linkcolor3" class="NavLinks" href="signin.php">Sign in</a></li>
         </ul>
@@ -46,9 +46,9 @@
     <img style="height:150px; width:150px;" src="images/1.jpeg" alt="">
     </div>
 
-    <li class="grey">11 Thousands/ year</li>
+    <li class="grey">Boys Hostel</li>
+    <li>Fast Internet</li>
     <li>Best Internet</li>
-    <li>TV Room</li>
     <li>Best Mess</li>
     <li>Auditorium Attached</li>
     <li>Reading room</li>
@@ -64,12 +64,12 @@
 <img style="height:150px; width:150px;" src="images/2.jpeg" alt="">
 </div>
 
-<li class="grey">11 Thousands/ year</li>
-<li>Wifi </li>
-<li>Common reading room</li>
+<li class="grey">Girls Hostel</li>
+<li>TV Room </li>
+<li>Wifi</li>
 <li>Gym facility</li>
 <li>Best Mess</li>
-<li>TV rooms</li>
+<li>Common reading room</li>
 <li class="grey"><a href="signin.php" class="button">Select</a></li>
 </ul>
 </div>
@@ -81,8 +81,8 @@
 <img style="height:150px; width:150px;" src="images/3.jpeg" alt="">
 </div>
 
-<li class="grey">11 Thousands/ year</li>
-<li>Reading room</li>
+<li class="grey">Girls Hostel</li>
+<li>TV room</li>
 <li>Wifi</li>
 <li>Clean rooms</li>
 <li>Best view</li>
@@ -98,7 +98,7 @@
 <img style="height:150px; width:150px;" src="images/4.jpeg" alt="">
 </div>
 
-<li class="grey">11 Thousands/ year</li>
+<li class="grey">Girls Hostel</li>
 <li> Large Reading room</li>
 <li>Wifi</li>
 <li>Open area</li>
@@ -115,7 +115,7 @@
 <img style="height:150px; width:150px;" src="images/5.jpeg" alt="">
 </div>
 
-<li class="grey">11 Thousands/ year</li>
+<li class="grey">Girls Hostel</li>
 <li> Large Reading room</li>
 <li>Wifi</li>
 <li>Open Area</li>
@@ -133,7 +133,7 @@
 <img style="height:150px; width:150px;" src="images/6.jpeg" alt="">
 </div>
 
-<li class="grey">11 Thousands/ year</li>
+<li class="grey">Boys Hostel</li>
 <li>Big reading room</li>
 <li>Larger mess </li>
 <li>Comfortable living area</li>
@@ -150,7 +150,7 @@
 <img style="height:150px; width:150px;" src="images/7.jpeg" alt="">
 </div>
 
-<li class="grey">11 Thousands/ year</li>
+<li class="grey">Boys Hostel</li>
 <li>Big reading room</li>
 <li>Larger mess </li>
 <li>Comfortable living area</li>
